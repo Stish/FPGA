@@ -1,0 +1,7 @@
+MODULE Miniprojekt
+	SUBMODULE vgatest
+		INSTANCE XLXI_2
+	SUBMODULE Clk_div_2
+		INSTANCE XLXI_3
+	SUBMODULE clk_div_ctrl
+		INSTANCE XLXI_4

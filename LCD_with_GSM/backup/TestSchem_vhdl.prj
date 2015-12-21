@@ -1,0 +1,6 @@
+vhdl work "C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test\transmitter.vhd"
+vhdl work "C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test\Test_Data_out.vhd"
+vhdl work "C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test\receiver.vhd"
+vhdl work "C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test\RAM.vhd"
+vhdl work "C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test\LCD_Controller.vhd"
+vhdl work "C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test\TestSchem.vhf"

@@ -1,0 +1,12 @@
+AR test_data_out behavioral C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd sub00/vhpl05 1309337681
+AR lcd_controller behavioral C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.vhd sub00/vhpl09 1309337683
+EN transmitter NULL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/transmitter.vhd sub00/vhpl06 1309337678
+EN test_data_out NULL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd sub00/vhpl04 1309337680
+EN testschem NULL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf sub00/vhpl02 1309337686
+EN lcd_controller NULL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.vhd sub00/vhpl08 1309337682
+AR transmitter behavioral C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/transmitter.vhd sub00/vhpl07 1309337679
+EN receiver NULL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.vhd sub00/vhpl00 1309337676
+AR ram behavioral C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.vhd sub00/vhpl11 1309337685
+EN ram NULL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.vhd sub00/vhpl10 1309337684
+AR receiver behavioral C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.vhd sub00/vhpl01 1309337677
+AR testschem behavioral C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf sub00/vhpl03 1309337687

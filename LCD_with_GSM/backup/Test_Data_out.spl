@@ -1,0 +1,12 @@
+[Inputs]
+FLAG_T
+FLAG_R
+clk
+=DATA_IN[7:0]=
+[Outputs]
+RD_RAM
+WRT_RAM
+=DATA_OUT[7:0]=
+=RAM_OUT[7:0]=
+=RAM_ADDRESS[7:0]=
+[BiDir]

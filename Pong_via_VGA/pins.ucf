@@ -1,0 +1,13 @@
+NET "R8" 		LOC = "R8";
+NET "p6" 		LOC = "p6";
+NET "u4" 		LOC = "u4";
+NET "t4" 		LOC = "t4";
+NET "u3" 		LOC = "u3";
+
+NET "b8" 		LOC = "b8";
+
+NET "l_up" 		LOC = "h13";
+NET "l_down" 	LOC = "e18";
+NET "r_up" 		LOC = "d18";
+NET "r_down" 	LOC = "b18";
+NET "start" 	LOC = "r17";

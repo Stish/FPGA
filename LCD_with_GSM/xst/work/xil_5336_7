@@ -1,0 +1,33 @@
+V3 17
+FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.vhd 2011/06/09.08:25:14 M.70d
+EN work/receiver 1307643438 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.vhd \
+      PB ieee/std_logic_1164 1284609568 PB ieee/std_logic_arith 1284609569 \
+      PB ieee/STD_LOGIC_UNSIGNED 1284609570
+AR work/receiver/Behavioral 1307643439 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.vhd \
+      EN work/receiver 1307643438
+FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf 2011/06/09.20:17:14 M.70d
+EN work/TestSchem 1307643444 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf \
+      PB ieee/std_logic_1164 1284609568 PB ieee/NUMERIC_STD 1284609569 LB UNISIM \
+      PH unisim/VCOMPONENTS 1284609568
+AR work/TestSchem/BEHAVIORAL 1307643445 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf \
+      EN work/TestSchem 1307643444 CP receiver CP transmitter CP Test_Data_out \
+      CP AND2
+FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd 2011/06/09.21:16:50 M.70d
+EN work/Test_Data_out 1307647013 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd \
+      PB ieee/std_logic_1164 1284609568
+AR work/Test_Data_out/Behavioral 1307647014 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd \
+      EN work/Test_Data_out 1307647013
+FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/transmitter.vhd 2011/06/09.20:16:19 M.70d
+EN work/transmitter 1307643440 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/transmitter.vhd \
+      PB ieee/std_logic_1164 1284609568 PB ieee/std_logic_arith 1284609569 \
+      PB ieee/STD_LOGIC_UNSIGNED 1284609570
+AR work/transmitter/Behavioral 1307643441 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/transmitter.vhd \
+      EN work/transmitter 1307643440

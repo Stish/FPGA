@@ -1,0 +1,5 @@
+vhdl work "VGADrive.vhd"
+vhdl work "vgatest.vhd"
+vhdl work "clk_div_ctrl.vhd"
+vhdl work "Clk_div_2.vhd"
+vhdl work "Miniprojekt.vhf"

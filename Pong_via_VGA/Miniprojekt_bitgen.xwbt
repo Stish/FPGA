@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Work\_Uni\Sem_04\EDA\Xilinx\EDA_Miniprojekt\Miniprojekt.ncd
+OUTFILE=C:\Work\_Uni\Sem_04\EDA\Xilinx\EDA_Miniprojekt\Miniprojekt.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5fg320
+WORKINGDIR=C:\Work\_Uni\Sem_04\EDA\Xilinx\EDA_Miniprojekt
+LICENSE=WebPack
+USER_INFO=0_0_750

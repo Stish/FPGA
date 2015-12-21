@@ -1,0 +1,8 @@
+Release 12.3 Drc M.70d (nt)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+Wed Jan 05 16:55:43 2011
+
+drc -z Miniprojekt.ncd Miniprojekt.pcf
+
+DRC detected 0 errors and 0 warnings.

@@ -1,0 +1,15 @@
+[Inputs]
+clock
+clk_ctrl
+left_up
+left_down
+right_up
+right_down
+start
+[Outputs]
+R
+G
+B
+H
+V
+[BiDir]

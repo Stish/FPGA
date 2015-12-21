@@ -1,0 +1,5 @@
+[Inputs]
+clk_50mhz
+[Outputs]
+[BiDir]
+clk_ctrl

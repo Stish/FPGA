@@ -1,0 +1,16 @@
+vhdtdtfi -lib work VGADrive.vhd -lib work vgatest.vhd -prj EDA_Miniprojekt -o vgatest.spl -module vgatest -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vgatest.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.sym 
+vhdtdtfi -lib work VGADrive.vhd -lib work vgatest.vhd -prj EDA_Miniprojekt -o vgatest.spl -module vgatest -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vgatest.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.sym 
+vhdtdtfi -lib work VGADrive.vhd -lib work vgatest.vhd -prj EDA_Miniprojekt -o vgatest.spl -module vgatest -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vgatest.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.sym 
+vhdtdtfi -lib work VGADrive.vhd -lib work vgatest.vhd -prj EDA_Miniprojekt -o vgatest.spl -module vgatest -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vgatest.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.sym 
+vhdtdtfi -lib work VGADrive.vhd -lib work vgatest.vhd -prj EDA_Miniprojekt -o vgatest.spl -module vgatest -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vgatest.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.sym 
+vhdtdtfi -lib work VGADrive.vhd -lib work vgatest.vhd -prj EDA_Miniprojekt -o vgatest.spl -module vgatest -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vgatest.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.sym 
+vhdtdtfi -lib work VGADrive.vhd -lib work vgatest.vhd -prj EDA_Miniprojekt -o vgatest.spl -module vgatest -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vgatest.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.sym 
+vhdtdtfi -lib work VGADrive.vhd -lib work vgatest.vhd -prj EDA_Miniprojekt -o vgatest.spl -module vgatest -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vgatest.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.sym 

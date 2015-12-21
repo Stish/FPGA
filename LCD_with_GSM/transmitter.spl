@@ -1,0 +1,9 @@
+[Inputs]
+CLK
+RESET
+=DATA_IN[7:0]=
+[Outputs]
+TXD
+bit_clk
+[BiDir]
+FLAG_T

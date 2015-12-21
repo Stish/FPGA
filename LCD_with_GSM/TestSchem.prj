@@ -1,0 +1,6 @@
+vhdl work "transmitter.vhd"
+vhdl work "Test_Data_out.vhd"
+vhdl work "receiver.vhd"
+vhdl work "RAM.vhd"
+vhdl work "LCD_Controller.vhd"
+vhdl work "TestSchem.vhf"

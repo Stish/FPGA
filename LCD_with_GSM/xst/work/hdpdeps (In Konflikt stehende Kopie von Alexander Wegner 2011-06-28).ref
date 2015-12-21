@@ -1,0 +1,50 @@
+V3 24
+FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.vhd 2011/06/27.13:26:11 M.70d
+EN work/LCD_Controller 1309177815 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.vhd \
+      PB ieee/std_logic_1164 1284609568 PB ieee/std_logic_arith 1284609569 \
+      PB ieee/STD_LOGIC_UNSIGNED 1284609570
+AR work/LCD_Controller/Behavioral 1309177816 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.vhd \
+      EN work/LCD_Controller 1309177815
+FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.vhd 2011/06/27.12:06:51 M.70d
+EN work/RAM 1309177817 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.vhd \
+      PB ieee/std_logic_1164 1284609568 PB ieee/std_logic_arith 1284609569 \
+      PB ieee/STD_LOGIC_UNSIGNED 1284609570
+AR work/RAM/Behavioral 1309177818 \
+      FL C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.vhd \
+      EN work/RAM 1309177817
+FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.vhd 2011/06/09.20:36:02 M.70d
+EN work/receiver 1309177809 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.vhd \
+      PB ieee/std_logic_1164 1284609568 PB ieee/std_logic_arith 1284609569 \
+      PB ieee/STD_LOGIC_UNSIGNED 1284609570
+AR work/receiver/Behavioral 1309177810 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.vhd \
+      EN work/receiver 1309177809
+FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf 2011/06/27.14:30:01 M.70d
+EN work/TestSchem 1309177819 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf \
+      PB ieee/std_logic_1164 1284609568 PB ieee/NUMERIC_STD 1284609569 LB UNISIM \
+      PH unisim/VCOMPONENTS 1284609568
+AR work/TestSchem/BEHAVIORAL 1309177820 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf \
+      EN work/TestSchem 1309177819 CP receiver CP transmitter CP Test_Data_out \
+      CP LCD_Controller CP RAM
+FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd 2011/06/27.13:27:35 M.70d
+EN work/Test_Data_out 1309177813 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd \
+      PB ieee/std_logic_1164 1284609568 PB ieee/std_logic_arith 1284609569 \
+      PB ieee/STD_LOGIC_UNSIGNED 1284609570
+AR work/Test_Data_out/Behavioral 1309177814 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd \
+      EN work/Test_Data_out 1309177813
+FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/transmitter.vhd 2011/06/09.19:50:50 M.70d
+EN work/transmitter 1309177811 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/transmitter.vhd \
+      PB ieee/std_logic_1164 1284609568 PB ieee/std_logic_arith 1284609569 \
+      PB ieee/STD_LOGIC_UNSIGNED 1284609570
+AR work/transmitter/Behavioral 1309177812 \
+      FL C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/transmitter.vhd \
+      EN work/transmitter 1309177811

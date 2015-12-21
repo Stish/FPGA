@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/xst"
+elaborate
+-ifn RAM.prj
+-ifmt mixed

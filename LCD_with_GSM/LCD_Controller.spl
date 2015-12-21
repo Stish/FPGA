@@ -1,0 +1,12 @@
+[Inputs]
+CLK
+RESET
+=DATA_IN[7:0]=
+[Outputs]
+ENABLE
+RD_RAM
+RS
+=DATA_OUT[7:0]=
+=RAM_ADDRESS[7:0]=
+[BiDir]
+CLK_1000Hz

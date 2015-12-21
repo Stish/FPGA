@@ -1,0 +1,14 @@
+vhdtdtfi -lib work receiver.vhd -prj RS232_test -o receiver.spl -module receiver -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e receiver.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.sym 
+vhdtdtfi -lib work receiver.vhd -prj RS232_test -o receiver.spl -module receiver -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e receiver.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.sym 
+vhdtdtfi -lib work receiver.vhd -prj RS232_test -o receiver.spl -module receiver -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e receiver.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.sym 
+vhdtdtfi -lib work receiver.vhd -prj RS232_test -o receiver.spl -module receiver -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e receiver.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.sym 
+vhdtdtfi -lib work receiver.vhd -prj RS232_test -o receiver.spl -module receiver -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e receiver.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.sym 
+vhdtdtfi -lib work receiver.vhd -prj RS232_test -o receiver.spl -module receiver -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e receiver.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.sym 
+vhdtdtfi -lib work receiver.vhd -prj RS232_test -o receiver.spl -module receiver -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e receiver.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/receiver.sym 

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work clk_div_ctrl.vhd -prj EDA_Miniprojekt -o clk_div_ctrl.spl -module clk_div_ctrl -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e clk_div_ctrl.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/clk_div_ctrl.sym 

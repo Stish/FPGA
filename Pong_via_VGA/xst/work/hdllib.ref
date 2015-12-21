@@ -1,0 +1,12 @@
+AR miniprojekt behavioral C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/Miniprojekt.vhf sub00/vhpl05 1294242760
+AR clk_div_ctrl behavioral C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/clk_div_ctrl.vhd sub00/vhpl11 1294242758
+EN clkteiler1hz NULL C:/Work/_Uni/Sem_04/EDA/Xilinx/Uebung_3/clkteiler1hz.vhd sub00/vhpl08 1293561080
+EN miniprojekt NULL C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/Miniprojekt.vhf sub00/vhpl04 1294242759
+AR clkteiler1hz behavioral C:/Work/_Uni/Sem_04/EDA/Xilinx/Uebung_3/clkteiler1hz.vhd sub00/vhpl09 1293561081
+AR vgadrive behaviour1 C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/VGADrive.vhd sub00/vhpl01 1294242752
+AR vgatest test C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.vhd sub00/vhpl03 1294242754
+EN clk_div_2 NULL C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/Clk_div_2.vhd sub00/vhpl06 1294242755
+EN clk_div_ctrl NULL C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/clk_div_ctrl.vhd sub00/vhpl10 1294242757
+EN vgadrive NULL C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/VGADrive.vhd sub00/vhpl00 1294242751
+EN vgatest NULL C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/vgatest.vhd sub00/vhpl02 1294242753
+AR clk_div_2 behavioral C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/Clk_div_2.vhd sub00/vhpl07 1294242756

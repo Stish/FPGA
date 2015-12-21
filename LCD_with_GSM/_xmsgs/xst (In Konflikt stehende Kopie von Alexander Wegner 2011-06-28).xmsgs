@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.vhf</arg>&quot; line <arg fmt="%d" index="2">122</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">RD_RAM</arg>&apos; of component &apos;<arg fmt="%s" index="4">Test_Data_out</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/Test_Data_out.vhd</arg>&quot; line <arg fmt="%d" index="2">59</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;RESET&gt;</arg>
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">WRT_RAM</arg>&gt; in unit &lt;<arg fmt="%s" index="2">Test_Data_out</arg>&gt; has a constant value of <arg fmt="%s" index="3">1</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">RD_RAM</arg>&gt; in unit &lt;<arg fmt="%s" index="2">LCD_Controller</arg>&gt; has a constant value of <arg fmt="%s" index="3">1</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.vhd</arg>&quot; line <arg fmt="%d" index="2">63</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.vhd</arg>&quot; line <arg fmt="%d" index="2">66</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="1305" delta="old" >Output &lt;<arg fmt="%s" index="1">RD_RAM</arg>&gt; is never assigned. Tied to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">token&lt;0:12&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">token&lt;13:14&gt;</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">at_cmgl_all&lt;14&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">00000000</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="738" delta="old" >HDL ADVISOR - <arg fmt="%d" index="1">1608</arg> flip-flops were inferred for signal &lt;<arg fmt="%s" index="2">data</arg>&gt;. You may be trying to describe a RAM in a way that is incompatible with block and distributed RAM resources available on Xilinx devices, or with a specific template that is not supported. Please review the Xilinx resources documentation and the XST user manual for coding guidelines. Taking advantage of RAM resources will lead to improved device usage and reduced synthesis time.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">cmd_6</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">XLXI_8</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="3034" delta="old" >In order to maximize performance and save block RAM resources, the small ROM &lt;<arg fmt="%s" index="1">Mrom__varindex0000</arg>&gt; will be implemented on LUT. If you want to force its implementation on block, use option/constraint rom_style.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">cmd_6</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCD_Controller</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">DATA_OUT_7</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Test_Data_out</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">XLXI_5/sendBuffer_7</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">TestSchem</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+</messages>
+

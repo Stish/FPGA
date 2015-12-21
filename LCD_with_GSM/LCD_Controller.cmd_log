@@ -1,0 +1,34 @@
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 
+vhdtdtfi -lib work LCD_Controller.vhd -prj RS232_test -o LCD_Controller.spl -module LCD_Controller -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e LCD_Controller.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.sym 

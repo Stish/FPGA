@@ -1,0 +1,12 @@
+vhdtdtfi -lib work RAM.vhd -prj RS232_test -o RAM.spl -module RAM -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e RAM.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.sym 
+vhdtdtfi -lib work RAM.vhd -prj RS232_test -o RAM.spl -module RAM -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e RAM.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.sym 
+vhdtdtfi -lib work RAM.vhd -prj RS232_test -o RAM.spl -module RAM -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e RAM.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.sym 
+vhdtdtfi -lib work RAM.vhd -prj RS232_test -o RAM.spl -module RAM -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e RAM.spl C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.sym 
+vhdtdtfi -lib work RAM.vhd -prj RS232_test -o RAM.spl -module RAM -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e RAM.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.sym 
+vhdtdtfi -lib work RAM.vhd -prj RS232_test -o RAM.spl -module RAM -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e RAM.spl C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/RAM.sym 

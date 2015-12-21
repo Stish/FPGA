@@ -1,0 +1,34 @@
+Release 12.3 - xst M.70d (nt)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.47 secs
+ 
+--> Parameter xsthdpdir set to C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.48 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/VGADrive.vhd" in Library work.
+Architecture behaviour1 of Entity vgadrive is up to date.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.78 secs
+ 
+--> 
+
+Total memory usage is 157352 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

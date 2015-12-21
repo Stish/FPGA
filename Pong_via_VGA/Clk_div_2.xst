@@ -1,0 +1,5 @@
+set -tmpdir "C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/xst/projnav.tmp"
+set -xsthdpdir "C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/xst"
+elaborate
+-ifn Clk_div_2.prj
+-ifmt mixed

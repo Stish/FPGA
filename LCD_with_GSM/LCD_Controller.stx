@@ -1,0 +1,35 @@
+Release 12.3 - xst M.70d (nt)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.47 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.47 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/LCD_Controller.vhd" in Library work.
+Entity <lcd_controller> compiled.
+Entity <lcd_controller> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.83 secs
+ 
+--> 
+
+Total memory usage is 157104 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

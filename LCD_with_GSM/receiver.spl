@@ -1,0 +1,8 @@
+[Inputs]
+CLK
+RXD
+RESET
+[Outputs]
+=DATA_OUT[7:0]=
+[BiDir]
+FLAG_R

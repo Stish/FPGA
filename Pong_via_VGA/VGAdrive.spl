@@ -1,0 +1,14 @@
+[Inputs]
+clock
+red
+green
+blue
+[Outputs]
+Rout
+Gout
+Bout
+H
+V
+=row[9:0]=
+=column[9:0]=
+[BiDir]

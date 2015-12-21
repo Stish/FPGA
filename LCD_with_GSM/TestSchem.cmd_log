@@ -1,0 +1,501 @@
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+xst -intstyle ise -ifn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.xst" -ofn "C:/Users/Alex/Dropbox/_Uni/Sem_05/HSD_Labor/RS232_test/TestSchem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc connection.ucf -p xc3s1200e-fg320-5 TestSchem.ngc TestSchem.ngd  
+map -intstyle ise -p xc3s1200e-fg320-5 -cm area -ir off -pr off -c 100 -o TestSchem_map.ncd TestSchem.ngd TestSchem.pcf 
+par -w -intstyle ise -ol high -t 1 TestSchem_map.ncd TestSchem.ncd TestSchem.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml TestSchem.twx TestSchem.ncd -o TestSchem.twr TestSchem.pcf -ucf connection.ucf 
+bitgen -intstyle ise -f TestSchem.ut TestSchem.ncd 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test\TestSchem.ncd
+OUTFILE=C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test\TestSchem.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5fg320
+WORKINGDIR=C:\Users\Alex\Dropbox\_Uni\Sem_05\HSD_Labor\RS232_test
+LICENSE=WebPack
+USER_INFO=0_0_750

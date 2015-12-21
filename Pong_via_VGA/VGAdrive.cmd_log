@@ -1,0 +1,4 @@
+vhdtdtfi -lib work VGADrive.vhd -prj EDA_Miniprojekt -o VGAdrive.spl -module VGAdrive -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGAdrive.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/VGAdrive.sym 
+vhdtdtfi -lib work VGADrive.vhd -prj EDA_Miniprojekt -o VGAdrive.spl -module VGAdrive -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGAdrive.spl C:/Work/_Uni/Sem_04/EDA/Xilinx/EDA_Miniprojekt/VGAdrive.sym 
